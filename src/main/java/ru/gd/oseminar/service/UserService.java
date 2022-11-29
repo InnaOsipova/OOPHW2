@@ -1,7 +1,6 @@
 package ru.gd.oseminar.service;
 
 import ru.gd.oseminar.data.Student;
-import ru.gd.oseminar.data.Ticher;
 import ru.gd.oseminar.data.User;
 
 import java.util.ArrayList;
